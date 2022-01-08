@@ -1,20 +1,16 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    introTitle: 'Hello Cherry',
+    introDesc: 'Em có nghe thấy anh nói honggggg?',
+    btnIntro: 'Say Yes or No',
+    title: 'Phải chăng em đã buồn ngủ rồi ư?',
+    desc: 'Chắc vì anh đi loanh quanh trong tâm trí em cả ngày rồi ',
+    btnYes: 'Đúng ạ <33',
+    btnNo: 'Không, Anh trai à :3',
+    question:'Em có đang đi lạc ở đâu không?',
+    btnReply: 'Hãy gửi định vị cho anh <3',
+    reply: 'Tọa độ 24.8370063,55.4068017 (Dùng Google Earth để biết nhé) <3',
+    mess: 'Anh biết mà',
+    messDesc: 'Chúc em ngủ ngonnnnnnnn',
+    btnAccept: 'Hãy nhấn link để trở thành bạn nữ phô mai cute siêu cấp vũ trụ <3',
+    messLink: 'https://www.facebook.com/huuphuc2301' 
 }
